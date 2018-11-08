@@ -1,0 +1,8 @@
+---
+- name: Install Shaku, the Collector.
+  become: yes
+  get_url:
+    url: https://phar.phpunit.de/shaku.phar
+    dest: /usr/local/bin/shaku
+    mode: 0755
+    force: yes
