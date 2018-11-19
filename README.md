@@ -1,5 +1,6 @@
 Shaku Ansible role
 =========
+[![Build Status](https://travis-ci.com/devsoul/ansible-role-shaku.svg?branch=master)](https://travis-ci.com/devsoul/ansible-role-shaku)
 
 'Shaku, the Collector' Ansible role
 
